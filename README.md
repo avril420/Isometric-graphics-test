@@ -1,2 +1,0 @@
-# Isometric-graphics-test
-
